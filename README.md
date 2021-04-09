@@ -1,5 +1,7 @@
 # ECMAScript proposal: support properties of strings (a.k.a. “sequence properties”) in Unicode property escapes
 
+![Stage 2](https://badges.aleen42.com/src/tc39_3.svg)
+
 ## Status
 
 This proposal is at stage 2 of [the TC39 process](https://tc39.es/process-document/).
